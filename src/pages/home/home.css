@@ -1,0 +1,11 @@
+.main-div {
+    background-color: #ddd;
+    min-height: 880px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div h1 {
+    text-align: center;
+}
