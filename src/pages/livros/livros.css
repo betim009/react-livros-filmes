@@ -1,0 +1,9 @@
+img {
+    max-width: 120px;
+}
+
+.div-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
